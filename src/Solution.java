@@ -58,8 +58,26 @@ public class Solution {
 //        List<List<Integer>> ans = positionsofLargeGroups.largeGroupPosition(s);
 //        Long[][] arr = {{1L, 2L}, {1L, 2L}, {1L, 3L}, {1L, 2L}};
 //        PrintHelper.print(arr);
-        int[] nums = {3, 4, 5, 1, 2};
-        _153_FindMinimuminRotatedSortedArray findMinimuminRotatedSortedArray = new _153_FindMinimuminRotatedSortedArray();
-        System.out.println(findMinimuminRotatedSortedArray.findMin(nums));
+//        int[] nums = {3, 4, 5, 1, 2};
+//        _153_FindMinimuminRotatedSortedArray findMinimuminRotatedSortedArray = new _153_FindMinimuminRotatedSortedArray();
+//        System.out.println(findMinimuminRotatedSortedArray.findMin(nums));
+//        _77_Combinations combination = new _77_Combinations();
+//        PrintHelper.print(combination.combine(4,2));
+//        _39_CombinationSum combinationSum = new _39_CombinationSum();
+//        int[] candidate = {2, 3,4};
+//        PrintHelper.print(combinationSum.combinationSum(candidate, 7));
+//        int [] candidatas = {10,1,2,7,6,1,5};
+//        _40_CombinationSumII combinationSumII = new _40_CombinationSumII();
+//        PrintHelper.print(combinationSumII.combinationSum2(candidatas, 8));
+//          int [] candidatas = {1,2,3};
+//         _90_SubsetsII subsetsII = new _90_SubsetsII();
+//         PrintHelper.print(subsetsII.subsetsWithDup(candidatas));
+//        int [] nums =  {1,1,2};
+//        _47_PermutationsII permutationsII = new _47_PermutationsII();
+//        PrintHelper.print(permutationsII.permuteUnique(nums));
+        String s = "aab";
+        _131_PalindromePartitioning palindromePartitioning = new _131_PalindromePartitioning();
+        PrintHelper.print(palindromePartitioning.partition(s));
+
     }
 }

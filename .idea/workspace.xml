@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4ca64f3-bdcc-4951-923f-25658bbd2a18" name="Default Changelist" comment="" />
+    <list default="true" id="b4ca64f3-bdcc-4951-923f-25658bbd2a18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_102_BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_104_MaximumDepthofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_105_ConstructBinaryTreeFromPreorderandInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_127_WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_131_PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_144_BinaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_156_BinaryTreeUpsideDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_169_MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_207_CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_210_CourseScheduleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_230_KthSmallestElementinaBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_285_InorderSuccessorinBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_366_FindLeavesofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_39_CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_40_CombinationSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_46_Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_47_PermutationsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_701_InsertintoaBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_77_Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_78_Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_90_SubsetsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_94_BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_98_ValidateBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/_330_PatchingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/_330_PatchingArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +44,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XaGxjN9GBhYamuSbSDR8UrCZpe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -69,12 +102,29 @@
       <workItem from="1589748866442" duration="11893000" />
       <workItem from="1589845249726" duration="1281000" />
       <workItem from="1589847537503" duration="7746000" />
-      <workItem from="1590009101056" duration="34150000" />
+      <workItem from="1590009101056" duration="34756000" />
+      <workItem from="1590456075651" duration="428000" />
+      <workItem from="1591670409264" duration="2737000" />
+      <workItem from="1591839709353" duration="22838000" />
+      <workItem from="1592314618427" duration="34448000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -98,6 +148,11 @@
           <url>file://$PROJECT_DIR$/src/_830_PositionsofLargeGroups.java</url>
           <line>9</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_131_PalindromePartitioning.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
