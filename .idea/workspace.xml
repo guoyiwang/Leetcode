@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4ca64f3-bdcc-4951-923f-25658bbd2a18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_102_BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_104_MaximumDepthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_105_ConstructBinaryTreeFromPreorderandInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_127_WordLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_131_PalindromePartitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_144_BinaryTreePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_156_BinaryTreeUpsideDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_169_MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_207_CourseSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_210_CourseScheduleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_230_KthSmallestElementinaBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_285_InorderSuccessorinBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_366_FindLeavesofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_39_CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_40_CombinationSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_46_Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_47_PermutationsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_701_InsertintoaBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_77_Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_78_Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_90_SubsetsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_94_BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_98_ValidateBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_RomantoInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/_330_PatchingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/_330_PatchingArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_26_Remove_DuplicatedFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_26_RemoveDuplicatedFromSortedArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +82,7 @@
       <workItem from="1591670409264" duration="2737000" />
       <workItem from="1591839709353" duration="22838000" />
       <workItem from="1592314618427" duration="34448000" />
+      <workItem from="1597421940831" duration="2868000" />
     </task>
     <servers />
   </component>
@@ -129,16 +105,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Array.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Array.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/_330_PatchingArray.java</url>
           <line>8</line>

@@ -1,4 +1,4 @@
-public class _26_Remove_DuplicatedFromSortedArray {
+public class _26_RemoveDuplicatedFromSortedArray {
     //in the code which in leetcode, the answer is array which could be created by for loop to index in nums
     public int removeDuplicates(int[] nums){
         if(nums.length ==0) return 0;
